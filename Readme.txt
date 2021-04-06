@@ -1,5 +1,5 @@
 Thanks for downloading this template!
-
+tambah ini lagi gan
 Template Name: FlexStart
 Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
 Author: BootstrapMade.com
