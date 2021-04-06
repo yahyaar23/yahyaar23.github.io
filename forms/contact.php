@@ -1,13 +1,13 @@
 <?php
   /**
   * Requires the "PHP Email Form" library
-  * aku menambahkan tulisan ini dari dulu okeiii ini aku
+  * aku menambahkan tulisan ini dari dulu okeiii ini gaku
   * The "PHP Email Form" library is available only in the pro version of the template
   * The library should be uploaded to: vendor/php-email-form/php-email-form.php
   * For more info and help: https://bootstrapmade.com/php-email-form/
   */
 
-  // Replace contact@example.com with your real receiving email address
+  // Replace contact@example.com with your real receiving email addresssdsd
   $receiving_email_address = 'contact@example.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
